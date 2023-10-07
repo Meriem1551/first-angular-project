@@ -1,0 +1,13 @@
+nav{
+    background-color: rgb(223, 189, 254); 
+}
+nav ul{
+    display: flex;
+    justify-content: end;
+  li{
+    list-style: none;
+  }
+}
+#logo{
+    margin-right: auto;
+}
