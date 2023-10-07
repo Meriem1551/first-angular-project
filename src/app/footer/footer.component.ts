@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./footer.component.css']
 })
 export class FooterComponent {
-
+link1 = "Facebook"
+link2 = "Instgram"
+link3 = "Twitter"
+link4 = "LinkedIn"
+footerText = "copyright reserved &copy; 2023"
 }
