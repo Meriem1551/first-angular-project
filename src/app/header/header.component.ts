@@ -8,7 +8,5 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
   logo = "AniSite"
   firstlink = "Movies"
-  seclink ="Ghibli Studio"
- thirdlink ="Wit Studio"
  fourthlink = "Animes"
 }

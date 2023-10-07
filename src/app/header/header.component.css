@@ -1,13 +1,36 @@
 nav{
-    background-color: rgb(223, 189, 254); 
+    background-color: rgb(103, 39, 39); 
+    padding: 20px 30px;
+    border-radius: 50px;
+    margin: 15px 100px;
 }
 nav ul{
     display: flex;
+    gap: 50px;
     justify-content: end;
-  li{
-    list-style: none;
-  }
+    align-items: center;
+}
+li{
+  list-style: none;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  font-weight:500;
+}
+.link a{
+  color: bisque;
+}
+.link a:hover{
+  text-decoration: underline;
 }
 #logo{
     margin-right: auto;
+    font-family:fantasy;
+    font-size: 2rem;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,rgb(251, 244, 223),rgb(253, 144, 124),rgb(250, 237, 208));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a{
+  text-decoration: none;
 }
