@@ -1,0 +1,29 @@
+#footer{
+    background-color: rgb(103, 39, 39); 
+    padding: 20px 30px;
+    border-radius: 50px;
+    margin: 15px 100px;
+    display: grid;
+    gap: 20px;
+    place-items: center;
+}
+#social{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+a{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: bisque;
+}
+a:hover{
+    text-decoration: underline;
+}
+p{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+}
