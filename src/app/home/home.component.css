@@ -1,0 +1,16 @@
+div{
+    display: grid;
+    place-items: center; border-radius: 100%;
+    
+}
+img{
+    width: 100%;
+    background-color: rgb(251, 211, 255);
+    opacity: 0.5;
+    padding-top: -350px;
+    padding-bottom: -350px;
+    padding-left: 200px;
+    padding-right: 200px;
+   border-radius: 100%;
+
+}
