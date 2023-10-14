@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    place-items: center; 
+    position: relative;
+    margin: 100px;
+    background-color: rgb(248, 217, 180);
+    opacity: 0.7;
+    border: 3px solid rgb(43, 8, 8);
+    border-radius: 5px;
+    font-family: fantasy;
+    text-align: center;
+    padding: 15px;
+}
+h1{
+    letter-spacing: 2px;
+}
+#second{
+    transform:rotateZ(180deg);
+}
+#container img{
+    width: 150px;
+}
