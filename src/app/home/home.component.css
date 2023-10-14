@@ -1,16 +1,22 @@
-div{
-    display: grid;
-    place-items: center; border-radius: 100%;
-    
+#container{
+    display: flex;
+    place-items: center; 
+    position: relative;
+    margin: 100px;
+    background-color: rgb(248, 217, 180);
+    opacity: 0.7;
+    border: 3px solid rgb(43, 8, 8);
+    border-radius: 5px;
+    font-family: fantasy;
+    text-align: center;
+    padding: 15px;
 }
-img{
-    width: 100%;
-    background-color: rgb(251, 211, 255);
-    opacity: 0.5;
-    padding-top: -350px;
-    padding-bottom: -350px;
-    padding-left: 200px;
-    padding-right: 200px;
-   border-radius: 100%;
-
+h1{
+    letter-spacing: 2px;
+}
+#second{
+    transform:rotateZ(180deg);
+}
+#container img{
+    width: 150px;
 }
