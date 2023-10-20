@@ -1,4 +1,5 @@
 #footer{
+    position: relative;
     padding: 10px;
     display: grid;
     gap: 20px;
