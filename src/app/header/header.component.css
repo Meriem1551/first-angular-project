@@ -1,8 +1,5 @@
 nav{
-    background-color: rgb(103, 39, 39); 
-    padding: 20px 30px;
-    border-radius: 50px;
-    margin: 15px 100px;
+  padding: 10px;
 }
 nav ul{
     display: flex;
@@ -17,7 +14,7 @@ li{
   font-weight:500;
 }
 .link a{
-  color: bisque;
+  color: black;
 }
 .link a:hover{
   text-decoration: underline;
@@ -27,7 +24,7 @@ li{
     font-family:fantasy;
     font-size: 2rem;
     font-weight: 700;
-    background-image: linear-gradient(45deg,rgb(251, 244, 223),rgb(253, 144, 124),rgb(250, 237, 208));
+    background-image: linear-gradient(45deg,rgb(250, 142, 140),black,rgb(250, 142, 140));
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
