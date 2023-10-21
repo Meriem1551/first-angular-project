@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name": "YOUR NAME",
+        "image":"../assets/images/your_name.webp",
+        "description":"hi"
+    },
+    {
+        "id":2,
+        "name": "WEATHERING WITH YOU",
+        "image":"../assets/images/weathering.jpg",
+        "description":"hi"
+    },
+    {
+        "id":3,
+        "name": "SILENT VOICE",
+        "image":"../assets/images/silent_voice.webp",
+        "description":"hi"
+    },
+    {
+        "id":4,
+        "name": "SPIRITED AWAY",
+        "image":"../assets/images/chihiro.jpg",
+        "description":"hi"
+    },
+    {
+        "id":5,
+        "name": "ERINNERUNGEN AN MARNIE",
+        "image":"../assets/images/marnie.webp",
+        "description":"hi"
+    },
+    {
+        "id":6,
+        "name": "BORUTO: NARUTO THE MOVIE",
+        "image":"../assets/images/boruto-op-and-ed-3.webp",
+        "description":"hi"
+    },
+    {
+        "id":7,
+        "name": "JUJUTSU KAISEN 0 MOVIE",
+        "image":"../assets/images/jujutsumovie.jpg",
+        "description":"hi"
+    },
+    {
+        "id":8,
+        "name": "DEMON SLAYER: MUGEN TRAIN",
+        "image":"../assets/images/mugenTrain.webp",
+        "description":"hi"
+    }
+]
