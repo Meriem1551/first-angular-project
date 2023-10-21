@@ -1,1 +1,8 @@
-<p>movies works!</p>
+<div  *ngFor="let movie of movies">
+    <div style="display: grid;">
+        <h2>{{movie.id}}</h2>
+        <h4>{{movie.name}}</h4>
+        <img src={{movie.image}} alt="">
+        <p>{{movie.description}}</p>
+    </div>
+</div>
