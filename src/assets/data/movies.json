@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name": "YOUR NAME",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":2,
+        "name": "WEATHERING WITH YOU",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":3,
+        "name": "SILENT VOIVE",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":4,
+        "name": "SPIRITED AWAY",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":5,
+        "name": "ERINNERUNGEN AS MARNIE",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":6,
+        "name": "BORUTO: NARUTO THE MOVIE",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":7,
+        "name": "JUJUTSU KAISEN 0 MOVIE",
+        "image":"hi",
+        "description":"hi"
+    },
+    {
+        "id":8,
+        "name": "DEMON SLAYER: MUGEN TRAIN",
+        "image":"hi",
+        "description":"hi"
+    }
+]
