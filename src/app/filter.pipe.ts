@@ -10,8 +10,8 @@ export class FilterPipe implements PipeTransform {
     //check if search term is undefined
     if (term === undefined) return movies;
     //return updated ninjas array
-    return movies.filter(function(movies){
-      return movies.name.toLowerCase().includes(term.toLowerCase())
+    return movies.filter(function(movie){
+      return movie.name.toLowerCase().includes(term.toLowerCase())
     });
   }
 

@@ -91,3 +91,14 @@ button:hover{
 #filter{
     position: relative;
 }
+#filter>input{
+    margin-left: 300px;
+    margin-top: 20PX;
+    padding: 15px 20PX;
+    width: 50%;
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: rgb(250, 222, 182);
+    border-color: rgb(124, 48, 3);
+    color:rgb(124, 48, 3);
+}

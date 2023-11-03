@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <form id="filter" >
-    <label>Search for a movie here</label>
-    <input type="text" [ngModel]="term" name="term"/>
+    <input type="text" [(ngModel)]="term" name="term" placeholder="Search for a movie"/>
 </form>
 <div  *ngFor="let movie of movies | filter: term">
     <div id="card">
