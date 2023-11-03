@@ -9,6 +9,8 @@ import { MoviesComponent } from './movies/movies.component';
 import { AnimesComponent } from './animes/animes.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MoviesService } from './movies.service';
+import { FilterPipe } from './filter.pipe';
+import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,11 +19,13 @@ import { MoviesService } from './movies.service';
     HomeComponent,
     MoviesComponent,
     AnimesComponent,
+    FilterPipe,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [MoviesService],
   bootstrap: [AppComponent]
