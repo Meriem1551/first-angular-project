@@ -1,5 +1,5 @@
 nav{
-  padding: 10px 20px;
+  padding: 10px 50px;
   position: relative;
 }
 nav ul{
@@ -11,11 +11,11 @@ nav ul{
 li{
   list-style: none;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight:500;
 }
 .link a{
-  color: rgb(252, 85, 7);
+  color: rgb(124, 48, 3);
 }
 .link a:hover{
   text-decoration: underline;

@@ -11,17 +11,17 @@
     gap: 100px;
 }
 a{
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 500;
     text-decoration: none;
-    color: rgb(255, 96, 39);
+    color: rgb(124, 48, 3);
 }
 a:hover{
     text-decoration: underline;
 }
 p{
-    font-size: 15px;
+    font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(255, 96, 39);
+    color: rgb(124, 48, 3);
 }
