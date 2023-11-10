@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Jujustu Kaisen 1",
+        "image":"../assets/images/jujutsu_kaisen1.webp",
+        "description":"The story follows high school student Yuji Itadori as he joins a secret organization of Jujutsu Sorcerers in order to kill a powerful Curse named Ryomen Sukuna, of whom Yuji becomes the host."
+    },
+    {
+        "name": "Jujustu Kaisen 2",
+        "image":"../assets/images/jujutsu_kaisen2.webp",
+        "description":"It focuses on Satoru Gojo and Suguru Geto during their time as students at Jujutsu High, and how they became enemies. 'Shibuya Incident' takes place in the present as the Sorcerers and Curses engage in an all-out war in Shibuya on Halloween."
+    },
+    {
+        "name": "SPY x FAMILY 1",
+        "image":"../assets/images/spy_x_family1.jpg",
+        "description":"The story follows a spy who has to build a family to execute a mission, not realizing that the girl he adopts as his daughter is a telepath, and the woman he agrees to be in a marriage with is a skilled assassin."
+    },
+    {
+        "name": "SPY x FAMILY PART 2",
+        "image":"../assets/images/spy_x_familyP2.jpg",
+        "description":"The second half of SPYxFAMILY. With Anya Forger successfully enrolled at the renowned Eden Academy, Operation Strix advances to its second phase. To investigate Ostanian politician Donovan Desmond, Anya must either befriend his son Damian or collect eight Stella Stars to become an Imperial Scholar."
+    },
+    {
+        "name": "SPY x FAMILY 2",
+        "image":"../assets/images/spy-x-family2.webp",
+        "description":"The second season of Spy x Family will see the Forgers on a new adventure and Loid navigating the next steps in his mission. Season 2 is said to be based on the Cruise Adventure arc from the manga, which focuses on the family going on a luxury cruise vacation."
+    },
+    {
+        "name": "DEMON SLAYER 1",
+        "image":"../assets/images/demon_slayer1.webp",
+        "description":"In Taisho-era Japan, kindhearted Tanjiro Kamado makes a living selling charcoal. But his peaceful life is shattered when a demon slaughters his entire family. His little sister Nezuko is the only survivor, but she has been transformed into a demon herself!."
+    },
+    {
+        "name": "DEMON SLAYER 2",
+        "image":"../assets/images/demon-slayer2.webp",
+        "description":"Flame Hashira Kyojuro Rengoku is tasked with finding an elusive demon plaguing a town. Believing the demon is connected to over forty disappearances on the Mugen train, he sets out to find and kill it. He meets a pair of bento vendors and advises them on the risk of demons, before he soon locates the train."
+    },
+    {
+        "name": "DEMON SLAYER 3",
+        "image":"../assets/images/demon_slayer3.webp",
+        "description":"Tanjiro Kamado sets off with his sister Nezuko Kamado to the titular Swordsmith Village in Demon Slayer Season 3 to obtain a new sword. He encounters several allies as well as new imposing threats along the way, with the whole story being told over the course of 11 episodes."
+    },
+    {
+        "name": "Dr STONE 1",
+        "image":"../assets/images/dr_stone1.webp",
+        "description":"One fateful day, all of humanity turned to stone. Many millennia later, Taiju frees himself from the petrification and finds himself surrounded by statues. The situation looks grim—until he runs into his science-loving friend Senku! Together they plan to restart civilization with the power of science!."
+    },
+    {
+        "name": "Dr STONE 2",
+        "image":"../assets/images/dr-stone2.png",
+        "description":"3,700 years after a mysterious light turns every human on the planet into stone, genius boy Senku Ishigami emerges from his petrification into a 'Stone World' and seeks to rebuild human civilization from the ground up. Dr. Stone's second season, titled Dr. Stone: Stone Wars"
+    },
+    {
+        "name": "Dr STONE 3",
+        "image":"../assets/images/dr-stone3.webp",
+        "description":"This is the second part of season 2 titled 'New World'"
+    },
+    {
+        "name": "Dr STONE 4",
+        "image":"../assets/images/dr_stone4.webp",
+        "description":"Senku and friends continue their quest to procure a sulfa drug panacea for Ruri, the village shamaness who is gravely ill! The toughest ingredient to obtain is sulfuric acid, the search for which will lead them on a death-defying journey!"
+        
+    },
+    {
+        "name": "Dr STONE 5",
+        "image":"../assets/images/dr_stone5.webp",
+        "description":"We'll add description after it end..."
+        
+    },
+    {
+        "name": "YOUR LIE IN APRIL",
+        "image":"../assets/images/your_lie_in_april.jpg",
+        "description":"Former piano prodigy Kousei is living a somewhat uninspired life, until he meets Kaori, a free-spirited multi-instrumentalist. Softball-loving Tsubaki and soccer star Watari are Kousei's best friends who support him through thick and thin."
+    },
+    {
+        "name": "TOKYO REVENGERS 1",
+        "image":"../assets/images/tokyo_revengers1.jpg",
+        "description":"The story follows Takemichi Hanagaki, a 26-year-old temp worker with a gloomy life, who learns that his ex-girlfriend, Hinata Tachibana, has died in a dispute involving the Tokyo Manji Gang. The next day, while returning from a part-time job, Takemichi gets pushed off the subway platform by someone."
+    },
+    {
+        "name": "TOKYO REVENGERS 2",
+        "image":"../assets/images/tokyo_revengers2.webp",
+        "description":"It follows Takemichi as he travels 10 years back in time to change a key case that can save Hinata, who was murdered again by the Tokyo Manjikai Gang in front of Takemichi."
+    },
+    {
+        "name": "TOKYO REVENGERS 3",
+        "image":"../assets/images/tokyo_revengers3.jpg",
+        "description":" 'Tenjiku Arc' will see Takemichi return once again to the present only to find — you guessed it — that things still haven't gone as smoothly as he'd have liked."
+    },
+    {
+        "name": "HORIMIYA 1",
+        "image":"../assets/images/horimiya1.webp",
+        "description":"Horimiya revolves around the endearing duo, Kyouko Hori and Izumi Miyamura. Hori, the popular and seemingly perfect student, and Miyamura, the introverted and nerdy outcast, discover each other's true selves and fall madly in love."
+    },
+    {
+        "name": "HORIMIYA 2",
+        "image":"../assets/images/horimiya2.jpg",
+        "description":"Continuation of seaason 1"
+    },
+    {
+        "name": "BLUE LOCK",
+        "image":"../assets/images/blue_lock.jpg",
+        "description":"The Blue Lock program is the brainchild of Jinpachi Ego, the man handpicked by Japan's soccer federation to find their next superstar. His new program takes 300 of the best young strikers in Japan and puts them in a Hunger Games-style setting where only one player will remain standing as Japan's best hope."
+    }
+]
