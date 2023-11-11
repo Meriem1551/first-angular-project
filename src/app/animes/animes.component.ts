@@ -6,7 +6,7 @@ import { AnimesService } from '../animes.service';
   templateUrl: './animes.component.html',
   styleUrls: ['./animes.component.css']
 })
-export class AnimesComponent {
+export class AnimesComponent implements OnInit{
   movies : any = [];
   term : string = '';
 
