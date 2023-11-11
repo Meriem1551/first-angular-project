@@ -1,0 +1,70 @@
+[
+    {
+        "id":1,
+        "name": "YOUR NAME",
+        "image":"../assets/images/your_name.webp",
+        "description":"Your Name is a touching, emotional, dramatic movie about two character, Taki and Mitsuha, who begin waking up in each other's bodies every few days. They learn to work together to make both their lives as normal as possible and eventually, both attempt to visit one another."
+    },
+    {
+        "id":2,
+        "name": "WEATHERING WITH YOU",
+        "image":"../assets/images/weathring_with_you.jpg",
+        "description":"Weathering with you is a romantic fantasy movie about Hodaka Morishima, a 16-year-old boy who runs away to Tokyo and ends up meeting and falling for Hina (Nana Mori), a mysterious teenage orphan who's caring for her younger brother and can manipulate the weather."
+    },
+    {
+        "id":3,
+        "name": "SILENT VOICE",
+        "image":"../assets/images/a_silent_voice.webp",
+        "description":"A Silent Voice is a coming-of-age story in which a tween boy grows into adolescence trying to make amends for the hurt he caused a deaf girl due to his merciless bullying."
+    },
+    {
+        "id":4,
+        "name": "SPIRITED AWAY",
+        "image":"../assets/images/Spirited-away.jpg",
+        "description":"The story is about the adventures of a young ten-year-old girl named Chihiro as she wanders into the world of the gods and spirits. She is forced to work at a bathhouse following her parents being turned into pigs by the witch Yubaba."
+    },
+    {
+        "id":5,
+        "name": "ERINNERUNGEN AN MARNIE",
+        "image":"../assets/images/When_Marnie_Was_There (1).jpg",
+        "description":"The film is an engrossing story of friendship, hardship, and learning to grow up without giving up. Our main character is Anna, a girl of just 12 who is sent away from her home in Tokyo to live with relatives in the countryside. Anna suffers from asthma and lives with crippling anxiety."
+    },
+    {
+        "id":6,
+        "name": "BORUTO: NARUTO THE MOVIE",
+        "image":"../assets/images/boruto.jpg",
+        "description":"Boruto: Naurto the Movie is about the new generation of the Village Hidden in the Leaves. Naurto at last achieved his dream of becoming 7th hokage. During this time he has a son named Boruto, who hates his father. He always complains that his father is never home to be with him, his sister, and his mother."
+    },
+    {
+        "id":7,
+        "name": "JUJUTSU KAISEN 0 MOVIE",
+        "image":"../assets/images/jjk_movie0.jpg",
+        "description":"The story is about a high school student Yuta Okkotsu suffers from being frequently bullied, when one day, his bullies are brutally killed by a Cursed Spirit that clings to him. The higher-ups of the Jujutsu Society wish to have the boy killed, as his curse is a dangerous spirit."
+    },
+    {
+        "id":8,
+        "name": "DEMON SLAYER: MUGEN TRAIN",
+        "image":"../assets/images/mugen_train.jpg",
+        "description":"the movie follows Tanjiro and the gang after they have completed their training at the Butterfly Mansion. They are now working a case that involves more than 40 people going mysteriously missing aboard the Mugen train in a short period of time."
+    },
+    {
+        "id":9,
+        "name": "SUZUME",
+        "image":"../assets/images/Suzume.jpg",
+        "description":"The film follows 17-year-old high school girl Suzume Iwato and young stranger Souta Munakata, who team up to prevent a series of disasters across Japan by sealing doors from the colossal, supernatural worm that causes earthquakes after being released."
+    },
+    {
+        "id":10,
+        "name": "VIOLET EVERGARDEN: ETERNITY AND THE AUTO MEMORY DOLL",
+        "image":"../assets/images/violet_movie.jpg",
+        "description":"Violet Evergarden: Eternity and the Auto Memory Doll is a continuation of the 2018 anime series Violet Evergarden. Its titular character is a former soldier who lost both of her hands in the war but is now nevertheless pursuing a career as an auto memory doll, a ghost writer slash typist slash secretary for hire."
+    },
+    {
+        "id":11,
+        "name": "HOWL'S MOVING CASTLE",
+        "image":"../assets/images/howl's_moving_castle.webp",
+        "description":"When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle."
+    }
+
+
+]
